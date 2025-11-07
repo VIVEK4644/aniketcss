@@ -1,0 +1,46 @@
+<!-- Css- Cascading style sheet 
+Introduced -- 1996 -- Hakon wium lie  -->
+
+
+<!-- There are three ways to define Css  -->
+<!-- 1. External  [.css]
+    2. Internal  <style></style>
+    3. Inline -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="first.css">
+</head>
+<!-- 
+<style>
+    h1{
+        color:  green;
+    }
+</style> -->
+<body>
+    <!-- <h1 style="color: red;" >Aniket</h1>   //niline css -->
+     <h1>Aniket</h1>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
